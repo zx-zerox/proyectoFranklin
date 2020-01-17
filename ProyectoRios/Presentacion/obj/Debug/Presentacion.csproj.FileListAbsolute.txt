@@ -1,0 +1,80 @@
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Presentacion\bin\Debug\Presentacion.exe.config
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Presentacion\obj\Debug\SystemaHotel.Login.resources
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Presentacion\obj\Debug\SystemaHotel.Principal.resources
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Presentacion\bin\Debug\Presentacion.exe
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Presentacion\bin\Debug\Presentacion.pdb
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Presentacion\bin\Debug\Dominio.dll
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Presentacion\bin\Debug\Soporte.dll
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Presentacion\bin\Debug\AccesoDatos.dll
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Presentacion\bin\Debug\Dominio.pdb
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Presentacion\bin\Debug\Soporte.pdb
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Presentacion\bin\Debug\AccesoDatos.pdb
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Presentacion\obj\Debug\Presentacion.exe
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Presentacion\obj\Debug\Presentacion.pdb
+E:\proyecto\ProyectoRios\Presentacion\bin\Debug\Presentacion.exe.config
+E:\proyecto\ProyectoRios\Presentacion\obj\Debug\Presentacion.exe
+E:\proyecto\ProyectoRios\Presentacion\obj\Debug\Presentacion.pdb
+F:\proyecto\ProyectoRios\Presentacion\bin\Debug\Presentacion.exe.config
+F:\proyecto\ProyectoRios\Presentacion\bin\Debug\Presentacion.exe
+F:\proyecto\ProyectoRios\Presentacion\bin\Debug\Presentacion.pdb
+F:\proyecto\ProyectoRios\Presentacion\bin\Debug\Dominio.dll
+F:\proyecto\ProyectoRios\Presentacion\bin\Debug\Soporte.dll
+F:\proyecto\ProyectoRios\Presentacion\bin\Debug\AccesoDatos.dll
+F:\proyecto\ProyectoRios\Presentacion\bin\Debug\Dominio.pdb
+F:\proyecto\ProyectoRios\Presentacion\bin\Debug\Soporte.pdb
+F:\proyecto\ProyectoRios\Presentacion\bin\Debug\AccesoDatos.pdb
+F:\proyecto\ProyectoRios\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+F:\proyecto\ProyectoRios\Presentacion\obj\Debug\SystemaHotel.Login.resources
+F:\proyecto\ProyectoRios\Presentacion\obj\Debug\SystemaHotel.Principal.resources
+F:\proyecto\ProyectoRios\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+F:\proyecto\ProyectoRios\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+F:\proyecto\ProyectoRios\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+F:\proyecto\ProyectoRios\Presentacion\obj\Debug\Presentacion.exe
+F:\proyecto\ProyectoRios\Presentacion\obj\Debug\Presentacion.pdb
+F:\proyecto\ProyectoRios\Presentacion\obj\Debug\Presentacion.Ventas.resources
+F:\proyecto\ProyectoRios\Presentacion\obj\Debug\Presentacion.Clientes.resources
+F:\proyecto\ProyectoRios\Presentacion\obj\Debug\Presentacion.Reportes.resources
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\bin\Debug\Dominio.dll
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\bin\Debug\Soporte.dll
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\bin\Debug\Soporte.pdb
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\obj\Debug\SystemaHotel.Login.resources
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\obj\Debug\SystemaHotel.Principal.resources
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\obj\Debug\Presentacion.Reportes.resources
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\obj\Debug\Presentacion.Ventas.resources
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\bin\Debug\Dominio.dll
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\bin\Debug\Soporte.dll
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\bin\Debug\Soporte.pdb
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\obj\Debug\SystemaHotel.Login.resources
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\obj\Debug\SystemaHotel.Principal.resources
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\obj\Debug\Presentacion.Reportes.resources
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\obj\Debug\Presentacion.Ventas.resources
+C:\Users\JHOJAN\Desktop\ProyectoRios\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\JHOJAN\Source\Repos\zx-zerox\proyectoFranklin\ProyectoRios\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\JHOJAN\Source\Repos\zx-zerox\proyectoFranklin\ProyectoRios\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\JHOJAN\Source\Repos\zx-zerox\proyectoFranklin\ProyectoRios\Presentacion\obj\Debug\Presentacion.pdb

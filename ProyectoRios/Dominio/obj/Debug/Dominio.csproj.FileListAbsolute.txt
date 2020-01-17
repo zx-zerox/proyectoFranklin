@@ -1,0 +1,37 @@
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Dominio\bin\Debug\Dominio.dll
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Dominio\bin\Debug\Dominio.pdb
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Dominio\bin\Debug\AccesoDatos.dll
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Dominio\bin\Debug\Soporte.dll
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Dominio\bin\Debug\AccesoDatos.pdb
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Dominio\bin\Debug\Soporte.pdb
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Dominio\obj\Debug\Dominio.dll
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Dominio\obj\Debug\Dominio.pdb
+F:\proyecto\ProyectoRios\Dominio\bin\Debug\Dominio.dll
+F:\proyecto\ProyectoRios\Dominio\bin\Debug\Dominio.pdb
+F:\proyecto\ProyectoRios\Dominio\bin\Debug\AccesoDatos.dll
+F:\proyecto\ProyectoRios\Dominio\bin\Debug\Soporte.dll
+F:\proyecto\ProyectoRios\Dominio\bin\Debug\AccesoDatos.pdb
+F:\proyecto\ProyectoRios\Dominio\bin\Debug\Soporte.pdb
+F:\proyecto\ProyectoRios\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+F:\proyecto\ProyectoRios\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+F:\proyecto\ProyectoRios\Dominio\obj\Debug\Dominio.dll
+F:\proyecto\ProyectoRios\Dominio\obj\Debug\Dominio.pdb
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Dominio\bin\Debug\Dominio.dll
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Dominio\bin\Debug\Dominio.pdb
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Dominio\bin\Debug\AccesoDatos.dll
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Dominio\bin\Debug\Soporte.dll
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Dominio\bin\Debug\AccesoDatos.pdb
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Dominio\bin\Debug\Soporte.pdb
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Dominio\obj\Debug\Dominio.dll
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Dominio\obj\Debug\Dominio.pdb
+C:\Users\JHOJAN\Desktop\ProyectoRios\Dominio\bin\Debug\Dominio.dll
+C:\Users\JHOJAN\Desktop\ProyectoRios\Dominio\bin\Debug\Dominio.pdb
+C:\Users\JHOJAN\Desktop\ProyectoRios\Dominio\bin\Debug\AccesoDatos.dll
+C:\Users\JHOJAN\Desktop\ProyectoRios\Dominio\bin\Debug\Soporte.dll
+C:\Users\JHOJAN\Desktop\ProyectoRios\Dominio\bin\Debug\AccesoDatos.pdb
+C:\Users\JHOJAN\Desktop\ProyectoRios\Dominio\bin\Debug\Soporte.pdb
+C:\Users\JHOJAN\Desktop\ProyectoRios\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\JHOJAN\Desktop\ProyectoRios\Dominio\obj\Debug\Dominio.dll
+C:\Users\JHOJAN\Desktop\ProyectoRios\Dominio\obj\Debug\Dominio.pdb

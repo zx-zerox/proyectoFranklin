@@ -1,0 +1,15 @@
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Soporte\bin\Debug\Soporte.dll
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Soporte\bin\Debug\Soporte.pdb
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Soporte\obj\Debug\Soporte.csprojResolveAssemblyReference.cache
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Soporte\obj\Debug\Soporte.dll
+c:\users\jhojan\documents\visual studio 2015\Projects\ProyectoRios\Soporte\obj\Debug\Soporte.pdb
+F:\proyecto\ProyectoRios\Soporte\bin\Debug\Soporte.dll
+F:\proyecto\ProyectoRios\Soporte\bin\Debug\Soporte.pdb
+F:\proyecto\ProyectoRios\Soporte\obj\Debug\Soporte.csprojAssemblyReference.cache
+F:\proyecto\ProyectoRios\Soporte\obj\Debug\Soporte.dll
+F:\proyecto\ProyectoRios\Soporte\obj\Debug\Soporte.pdb
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Soporte\bin\Debug\Soporte.dll
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Soporte\bin\Debug\Soporte.pdb
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Soporte\obj\Debug\Soporte.csprojResolveAssemblyReference.cache
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Soporte\obj\Debug\Soporte.dll
+C:\Users\JHOJAN\Desktop\ProyectoFranklin\Soporte\obj\Debug\Soporte.pdb
